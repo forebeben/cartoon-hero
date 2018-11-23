@@ -1,0 +1,19 @@
+  html, body {font-family: Arial; margin: 0;}
+   header{background-color: #A4BBBE; padding: 40px; text-align: center;} 
+   h1{font-size: 90px; color: white;}
+   header img{border-radius: 150px; width: 800px; border: 24px solid white;}
+   .content{ padding: 40px 20px; background-color: lightgrey; margin-right: 20px; }
+   .big-image{width: 1450px; margin: 0; padding: 40px 20px;}
+   .caption{font-size: 16px; color: white; font-style: italic;}
+   ul{list-style: none; padding: 0; margin: 0;}
+   
+   a{color: red; text-decoration: none;}
+   footer{padding: 40px 20px; background-color: grey}
+   footer ul{color: white; text-align: center;}
+   footer ul li{display: inline-block; margin: 0 5px;}
+
+
+    /*<header>
+		<img src="img/profile.jpg">
+		<h1>Reuben Onoba</h1>
+	</header>*/
